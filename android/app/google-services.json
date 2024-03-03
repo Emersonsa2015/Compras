@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "58482788402",
+    "project_id": "fflistamercado1-e8960",
+    "storage_bucket": "fflistamercado1-e8960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58482788402:android:a68c58ef44c65b41ca542b",
+        "android_client_info": {
+          "package_name": "com.semcodar.ffshoplist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58482788402-drng3n95vq0sfihrp2qbfjevnaa9nb1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1P2PlusnyMgpw7r8tceaJfmA5Uvvh_FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58482788402-drng3n95vq0sfihrp2qbfjevnaa9nb1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58482788402-0d77gjj8g78gl116p4mp8fvlgor0okbq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.semcodar.ffshoplist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
